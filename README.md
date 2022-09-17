@@ -7,7 +7,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img width="448" alt="Screen Shot 2022-09-17 at 10 38 52 AM" src="https://user-images.githubusercontent.com/39217212/190862569-6c19c553-969f-485c-a42c-9644e361ba46.png">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-09-17 at 10 16 32](https://user-images.githubusercontent.com/39217212/190862565-26313892-65d7-45a2-93c2-3de1ed0ea95c.png)
+<img width="449" alt="Screen Shot 2022-09-17 at 10 42 05 AM" src="https://user-images.githubusercontent.com/39217212/190863777-a932b955-f693-4d09-bf19-3937ef7818eb.png">
+
 
 
 
@@ -28,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://media.giphy.com/media/B7rIZ3sVEgdZzG4zED/giphy.gif" width=250><br>
+![](https://github.com/pauleenejordan/Flix/blob/main/record.png)
 
 ### Notes
 Describe any challenges encountered while building the app.
