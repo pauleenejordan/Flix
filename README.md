@@ -3,11 +3,11 @@
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-<img width="448" alt="Screen Shot 2022-09-17 at 10 38 52 AM" src="https://user-images.githubusercontent.com/39217212/190862503-cc9cd7cb-54f1-4916-a1fe-ab506dcd890c.<img width="444" alt="Screen Shot 2022-09-17 at 10 39 00 AM" src="https://user-images.githubusercontent.com/39217212/190862515-3be1de1c-c563-4dce-9641-129c71cc0ea3.png">
-png">
 
 
----![Uploading Screen Shot 2022-09-17 at 10.39.00 AM.png…]()
+<img width="448" alt="Screen Shot 2022-09-17 at 10 38 52 AM" src="https://user-images.githubusercontent.com/39217212/190862569-6c19c553-969f-485c-a42c-9644e361ba46.png">
+
+![Simulator Screen Shot - iPhone 14 Pro - 2022-09-17 at 10 16 32](https://user-images.githubusercontent.com/39217212/190862565-26313892-65d7-45a2-93c2-3de1ed0ea95c.png)
 
 
 
